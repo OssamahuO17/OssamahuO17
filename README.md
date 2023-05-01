@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**OssamahuO17/OssamahuO17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+A brief description of what this project does and who it's for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I'm a software engineering student at Bahcesehir University
+
+
+## 🛠 Skills
+Java HTML, CSS
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ossama-hussainy-7a7206264/)
+[![instagram](https://img.shields.io/badge/instagram-4d4d4d?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ossama_hussainy/)
+
