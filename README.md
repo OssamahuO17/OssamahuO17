@@ -1,9 +1,7 @@
 ## 🚀 About Me
-I'm a software engineering student at Bahcesehir University
-
-
+ a software engineer 
 ## 🛠 Skills
-Java HTML, CSS
+Java HTML, CSS, python
 
 
 
